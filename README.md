@@ -29,3 +29,5 @@
 
 10. After Deleting Task, Updated UI 
 ![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(312).png)
+
+Thank You &#10084;
