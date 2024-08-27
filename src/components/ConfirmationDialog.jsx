@@ -22,17 +22,3 @@ const ConfirmationDialog = ({ isOpen, onClose, onConfirm }) => {
 };
 
 export default ConfirmationDialog;
-
-// Explanation:
-// ConfirmationDialog Component: A reusable dialog box that appears when the user attempts to delete a task. It asks for confirmation with "Cancel" and "Delete" buttons.
-
-// State Management:
-
-// isDialogOpen: This state determines whether the confirmation dialog is visible.
-// setIsDialogOpen(true): This function is triggered when the user clicks the delete icon (HiTrash), showing the confirmation dialog.
-// onClose(): This function hides the confirmation dialog without taking any action.
-// onConfirm(): This function is called when the user confirms the deletion, triggering the handleDelete function.
-// Deleting a Task:
-
-// If the user confirms, the handleDelete function is executed, which removes the task from the list and closes the confirmation dialog.
-// This setup ensures that tasks are not deleted accidentally, providing a more user-friendly and secure interface.
