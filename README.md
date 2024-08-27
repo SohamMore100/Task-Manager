@@ -1,8 +1,13 @@
-# React + Tailwind CSS
+# React.Js + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(303).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(304).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(305).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(306).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(307).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(308).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(309).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(310).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(311).png)
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(312).png)
