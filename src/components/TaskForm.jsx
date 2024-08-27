@@ -9,9 +9,7 @@ const TaskForm = ({ handleAddTask, setShowForm }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Format the dueDate to MM/DD/YYYY
     const formattedDate = moment(dueDate).format('DD/MM/YYYY');
-
     // Save the task with the formatted date
     handleAddTask({ title, description, dueDate: formattedDate, completed });
     setShowForm(false); // Close the form after adding the task
