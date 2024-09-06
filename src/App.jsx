@@ -10,8 +10,8 @@ const App = () => {
   const [tasks, setTasks] = useState([
     { id: 1, title: 'Task 1', description: 'This is the description for this task 1', dueDate: '20/08/2024', completed: true },
     { id: 2, title: 'Task 2', description: 'This is the description for this task 2', dueDate: '27/08/2024', completed: false },
-    { id: 3, title: 'Task 3', description: 'This is the description for this task 2', dueDate: '30/08/2024', completed: false },
-    { id: 4, title: 'Task 4', description: 'This is the description for this task 2', dueDate: '30/08/2024', completed: false },
+    // { id: 3, title: 'Task 3', description: 'This is the description for this task 2', dueDate: '30/08/2024', completed: false },
+    // { id: 4, title: 'Task 4', description: 'This is the description for this task 2', dueDate: '30/08/2024', completed: false },
   ]);
 
   const [activeCategory, setActiveCategory] = useState('all');
