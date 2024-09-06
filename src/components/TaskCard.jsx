@@ -115,21 +115,3 @@ const TaskCard = ({ task, onUpdateStatus, onDeleteTask, onUpdateTask }) => {
   );
 };
 export default TaskCard;
-
-
-// import React, { useState } from 'react';
-
-// function DateInput() {
-//   const [date, setDate] = useState('');
-//   const [error, setError] = useState('');
-
-//   const handleDateChange = (e) => {
-//     const inputDate = e.target.value;
-//     // Regex to match dd/mm/yyyy format
-//     const datePattern = /^([0-2][0-9]|(3)[0-1])\/(0[1-9]|1[0-2])\/\d{4}$/;
-
-//     if (datePattern.test(inputDate)) {
-//       setDate(inputDate);
-//       setError('');
-//     } else {
-//       setError('Please enter the date in dd/mm/yyyy format');

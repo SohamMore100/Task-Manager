@@ -1,8 +1,33 @@
-# React + Vite
+# React.Js + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Home Page UI
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(303).png)
 
-Currently, two official plugins are available:
+2. Dark Mode
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(304).png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Add Task Button and its Form
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(305).png)
+
+4. New Task Inputs
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(306).png)
+
+5. Today's Task
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(307).png)
+
+6. Completed Task
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(308).png)
+
+7. Incomplete Task
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(309).png)
+
+8. All Tasks
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(310).png)
+
+9. Confirmation before Deleting Task
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(311).png)
+
+10. After Deleting Task, Updated UI 
+![Alt text](https://github.com/SohamMore100/Task-Manager/blob/main/src/assets/img/Screenshot%20(312).png)
+
+Thank You &#10084;
