@@ -6,6 +6,7 @@ import { FiSearch } from "react-icons/fi";
 import moment from "moment";
 import { IoMoon } from "react-icons/io5";
 import { IoSunny } from "react-icons/io5";
+
 const App = () => {
   const [tasks, setTasks] = useState([
     { id: 1, title: 'Task 1', description: 'This is the description for this task 1', dueDate: '20/08/2024', completed: true },
